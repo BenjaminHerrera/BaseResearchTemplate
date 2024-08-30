@@ -1,0 +1,6 @@
+model: fcnn
+args:
+  input_size: 1
+  output_size: 1
+  hidden_sizes: [30, 40, 50]
+  dropout_rate: 0.01
