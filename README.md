@@ -1,6 +1,6 @@
 # ⚗️ Base Research Template
 
-> `Written by ![Benjamin Herrera](https://github.com/BenjaminHerrera)
+> Written by [Benjamin Herrera](https://github.com/BenjaminHerrera)
 
 This is a template for any general purpose AI/ML research/development project
 
