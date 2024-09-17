@@ -1,8 +1,8 @@
-# ⚗️ Base Research Template
+# ⚗️ AI/ML Development Template
 
 > Written by [Benjamin Herrera](https://github.com/BenjaminHerrera)
 
-This is a template for any general purpose AI/ML research/development project
+This is a template for any general purpose AI/ML research and development project
 
 ### ✨ Features
 
